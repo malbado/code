@@ -63,6 +63,7 @@ public class test4<key, value>
 
   public static void main(String[] args)
   {
+    //sample of words
     String wordArr[] = {"cat", "dog", "tac", "god", "cta"};
     Anag a = new Anag();
     for(int i = 0; i < wordArr.length; i++)
