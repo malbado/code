@@ -1,5 +1,5 @@
 //Sum
-//some solution
+//This exsample deals with the sum befor and after a number
 public class test5
 {
 

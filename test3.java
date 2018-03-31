@@ -62,12 +62,15 @@ public class test3
   {
     int i = 0;
     int j = 0;
+    //size of the Binary tree
+    int k = 0;
     test3 t = new test3();
     int[] a = new int[]{1,2,3,4,5,6,7,8};
     try
       {
         i = Integer.parseInt(args[0]);
         j = Integer.parseInt(args[1]);
+        k = Integer.parseInt(args[2]);
       }
     catch(NumberFormatException nfe)
       {
@@ -76,7 +79,7 @@ public class test3
       }
      //int dist = t.distance(a, i, j);
      //System.out.println(Integer.toString(dist));
-     t.distanceNodesDown(i, j, 35);
-     t.distanceNodesUp(i, j, 35);
+     t.distanceNodesDown(i, j, k);
+     t.distanceNodesUp(i, j, k);
   }
 }
