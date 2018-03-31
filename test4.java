@@ -1,5 +1,6 @@
 //Characters
-//another example script
+//This script an exsample how to match strings that their characters may not be ordered the same
+>>>>>>> dev
 import java.util.Arrays;
 
 class Anag{
