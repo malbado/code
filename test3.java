@@ -1,5 +1,5 @@
 //Binary Tree
-
+//This script print out the nodes of distance j from node i
 public class test3
 {
 
