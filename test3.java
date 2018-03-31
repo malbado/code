@@ -62,6 +62,7 @@ public class test3
   {
     int i = 0;
     int j = 0;
+    //size of the Binary tree
     int k = 0;
     test3 t = new test3();
     int[] a = new int[]{1,2,3,4,5,6,7,8};
